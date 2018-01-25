@@ -1,0 +1,3 @@
+.vagrant/**
+vagrantfile
+Gemfile.lock
